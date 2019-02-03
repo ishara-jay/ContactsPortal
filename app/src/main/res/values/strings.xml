@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts Portal</string>
+    <string name="main_container">Contacts List </string>
+    <string name="default_contact_img">https://www.ravensbourne.ac.uk/content/img/default-pupil-profile.png</string>
+    <string name="add_contact_button">Add Contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile Number</string>
+</resources>
